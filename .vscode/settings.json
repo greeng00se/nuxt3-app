@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "nuxt.isNuxtApp": false,
+    "vetur.validation.script": false
+}
